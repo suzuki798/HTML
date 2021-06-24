@@ -1,0 +1,14 @@
+.sampl2 {
+  width: 300px;
+  height: 300px;
+  background-color: purple;
+  margin: 30px;
+  padding: 30px;
+}
+.sampl3 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 5px dashed red;
+
+}
